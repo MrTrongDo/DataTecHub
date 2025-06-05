@@ -1,0 +1,198 @@
+{
+    "dim_dashboard": [
+        {
+            "Index": 1,
+            "Dashboard_ID": "BIA_0001",
+            "Dashboard_Name": "Sales Performance Dashboard",
+            "Owner_Name": "BIA",
+            "Owner_ID": "O_0001",
+            "Created_at": "2025-05-20 00:00:00",
+            "Dashboard_Link": "https://app.powerbi.com/view?r=eyJrIjoiOGZkYmRkY2MtYTg0YS00NjYzLWIwNmMtMmNmMDJmYjEwZTA3IiwidCI6IjJmY2RhNzM0LWE1YzQtNDhmMC1hYThkLThhZTM2OTk3MzkyMSIsImMiOjEwfQ%3D%3D",
+            "Challenge_Topic": "BIA_course_Assessment"
+        },
+        {
+            "Index": 2,
+            "Dashboard_ID": "BIA_0002",
+            "Dashboard_Name": "Investment Dashboard",
+            "Owner_Name": "BIA",
+            "Owner_ID": "O_0002",
+            "Created_at": "2025-05-05 00:00:00",
+            "Dashboard_Link": "https://app.powerbi.com/view?r=eyJrIjoiOGZkYmRkY2MtYTg0YS00NjYzLWIwNmMtMmNmMDJmYjEwZTA3IiwidCI6IjJmY2RhNzM0LWE1YzQtNDhmMC1hYThkLThhZTM2OTk3MzkyMSIsImMiOjEwfQ%3D%3D",
+            "Challenge_Topic": "BIA_course_Assessment"
+        },
+        {
+            "Index": 3,
+            "Dashboard_ID": "BIA_0003",
+            "Dashboard_Name": "Marketing Dashboard",
+            "Owner_Name": "BIA",
+            "Owner_ID": "O_0003",
+            "Created_at": "2025-05-30 00:00:00",
+            "Dashboard_Link": "https://app.powerbi.com/view?r=eyJrIjoiMmEyNmI4ZTgtYzA0MS00MDI4LTk3ZDYtZGVhNzUwMDQ0Y2M1IiwidCI6IjJmY2RhNzM0LWE1YzQtNDhmMC1hYThkLThhZTM2OTk3MzkyMSIsImMiOjEwfQ%3D%3D",
+            "Challenge_Topic": "BIA_course_Assessment"
+        }
+    ],
+    "db_objective": [
+        {
+            "Dashboard_ID": "BIA_0001",
+            "Business_Objective": "Dashboard cho cấp quản lý"
+        },
+        {
+            "Dashboard_ID": "BIA_0001",
+            "Business_Objective": "Nắm bắt tình hình kinh doanh, tỷ lệ hoàn thành kế hoạch"
+        },
+        {
+            "Dashboard_ID": "BIA_0001",
+            "Business_Objective": "KPI: Doanh thu, Lợi nhuận, Tăng trưởng"
+        },
+        {
+            "Dashboard_ID": "BIA_0002",
+            "Business_Objective": "Hỗ trợ cho việc nghiên cứu và phân tích tài chính doanh nghiệp"
+        },
+        {
+            "Dashboard_ID": "BIA_0002",
+            "Business_Objective": "Phân tích Báo cáo tài chính, Các chỉ số tài chính"
+        },
+        {
+            "Dashboard_ID": "BIA_0002",
+            "Business_Objective": "Phân tích Kỹ thuật biểu đồ giá"
+        },
+        {
+            "Dashboard_ID": "BIA_0003",
+            "Business_Objective": "Dashboard dành cho Marketing Manager"
+        },
+        {
+            "Dashboard_ID": "BIA_0003",
+            "Business_Objective": "Phân tích hiệu quả các chiến dịch"
+        },
+        {
+            "Dashboard_ID": "BIA_0003",
+            "Business_Objective": "Phân tích hành vi khách hàng"
+        }
+    ],
+    "db_logic": [
+        {
+            "Dashboard_ID": "BIA_0001",
+            "Analytical_Logic": "What: chuyện gì đang xảy ra ? (số liệu tổng quan)"
+        },
+        {
+            "Dashboard_ID": "BIA_0001",
+            "Analytical_Logic": "Why: vì sao lại như vậy ? (so sánh, phân tích gốc rễ)"
+        },
+        {
+            "Dashboard_ID": "BIA_0002",
+            "Analytical_Logic": "What: chuyện gì đang xảy ra ? (số liệu tổng quan)"
+        },
+        {
+            "Dashboard_ID": "BIA_0003",
+            "Analytical_Logic": "What: chuyện gì đang xảy ra ? (số liệu tổng quan)"
+        }
+    ],
+    "db_perspective": [
+        {
+            "Dashboard_ID": "BIA_0001",
+            "Analytical_Perspectives": "Doanh thu/Lợi nhuận có yếu tố mùa vụ ?"
+        },
+        {
+            "Dashboard_ID": "BIA_0001",
+            "Analytical_Perspectives": "Tăng trưởng ra sao ?"
+        },
+        {
+            "Dashboard_ID": "BIA_0001",
+            "Analytical_Perspectives": "Kênh bán hàng nào hiệu quả nhất?"
+        },
+        {
+            "Dashboard_ID": "BIA_0001",
+            "Analytical_Perspectives": "Thực hiện kế hoạch ra sao ?"
+        },
+        {
+            "Dashboard_ID": "BIA_0002",
+            "Analytical_Perspectives": "Các chỉ báo kỹ thuật về giá có tích cực hay không ?"
+        },
+        {
+            "Dashboard_ID": "BIA_0002",
+            "Analytical_Perspectives": "Dòng tiền của cổ phiếu theo thời gian ra sao ?"
+        },
+        {
+            "Dashboard_ID": "BIA_0002",
+            "Analytical_Perspectives": "Tỷ trọng các tiểu mục trên tổng doanh thu trên báo cáo kết quả kinh doanh ra sao"
+        },
+        {
+            "Dashboard_ID": "BIA_0002",
+            "Analytical_Perspectives": "Tăng trưởng YoY của các tỷ trọng như thế nào"
+        },
+        {
+            "Dashboard_ID": "BIA_0002",
+            "Analytical_Perspectives": "Các chỉ số tài chính theo xu hướng đang tích cực hay tiêu cực"
+        },
+        {
+            "Dashboard_ID": "BIA_0003",
+            "Analytical_Perspectives": "Các chỉ số chính CPC, CPA theo các chương trình marketing ra sao ?"
+        },
+        {
+            "Dashboard_ID": "BIA_0003",
+            "Analytical_Perspectives": "Đóng góp revenue của chương trình nào nổi bật"
+        },
+        {
+            "Dashboard_ID": "BIA_0003",
+            "Analytical_Perspectives": "Tỷ trọng đóng góp revenue theo kênh như thế nào"
+        },
+        {
+            "Dashboard_ID": "BIA_0003",
+            "Analytical_Perspectives": "Tăng trưởng của revenue của các chương trình như thế nào ?"
+        }
+    ],
+    "db_structure": [
+        {
+            "Dashboard_ID": "BIA_0001",
+            "Dashboard_Structure": "Overview"
+        },
+        {
+            "Dashboard_ID": "BIA_0001",
+            "Dashboard_Structure": "Products"
+        },
+        {
+            "Dashboard_ID": "BIA_0001",
+            "Dashboard_Structure": "Saleforce"
+        },
+        {
+            "Dashboard_ID": "BIA_0001",
+            "Dashboard_Structure": "Customers"
+        },
+        {
+            "Dashboard_ID": "BIA_0002",
+            "Dashboard_Structure": "Technical Analysis"
+        },
+        {
+            "Dashboard_ID": "BIA_0002",
+            "Dashboard_Structure": "Fundamental Analysis"
+        },
+        {
+            "Dashboard_ID": "BIA_0002",
+            "Dashboard_Structure": "Financial Ratio"
+        },
+        {
+            "Dashboard_ID": "BIA_0003",
+            "Dashboard_Structure": "Overview"
+        },
+        {
+            "Dashboard_ID": "BIA_0003",
+            "Dashboard_Structure": "Channel Performance"
+        },
+        {
+            "Dashboard_ID": "BIA_0003",
+            "Dashboard_Structure": "Users Behavior"
+        },
+        {
+            "Dashboard_ID": "BIA_0003",
+            "Dashboard_Structure": "Email Marketing"
+        },
+        {
+            "Dashboard_ID": "BIA_0003",
+            "Dashboard_Structure": "Spend Efficiency"
+        },
+        {
+            "Dashboard_ID": "BIA_0003",
+            "Dashboard_Structure": "Customer Segmentation"
+        }
+    ]
+}
