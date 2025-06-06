@@ -1,0 +1,31 @@
+Chỉnh giúp anh 1 số cái với: 
+
+Phần Profile:
+https://finpal-ld.vercel.app/student-profile/DBO001 -> chỗ student-profile em sửa thành "member-profile" giúp anh với
+Cái avatar em có thể để scale cho fit được không k em ha (scale nhưng vẫn giữ tỷ lệ width heigh)
+Nút Linkedin nhờ em cho click chọn hyperlink theo field "Linkedin" trong array dim_dbowner
+
+Còn lại anh thấy đẹp hết
+
+Phần thumbnail 1 cái dashboard (VD related dashboard hoặc page landing_page)
+Trước em có cái icon share á, em enable cái đó giúp anh với, khi ngta click vào thì cho ngta copy cái đường dẫn tới dashboard đó để tiên chia sẻ
+Chỗ phía dưới dashboard name, có cái owner name, trước đó nó có cái avatar nhỏ, có thể dẫn link ảnh từ field "Owner_AvatarLink" trong dim_dbowner để get vô được không em ha
+
+
+Landing page
+Chỗ Tên Quy Doanh nghiệp -> em sửa giúp anh dấu sắc chỗ "Quý"
+
+Phần thông tin đăng ký: /courses vẫn bị lỗi logo
+Chỗ này em parse data trong json link giúp anh thay vì hardcode từ array dim_CourseContent với key: 
+
+courses/business-intelligence -> "TYPE001"
+courses/power-bi-analytics -> "TYPE002"
+courses/sql-analytics -> "TYPE003"
+courses/advanced-excel -> "TYPE004"
+
+Thời lượng -> Course_Duration
+Hình thức -> Course_Type
+Công cụ -> Excel_skill/PowerQuery_skill/SQL_skill/PowerBI_skill/Python_skill (if "Y" thì hiện")
+[Thêm mới] Bắt đầu (dự kiến) -> Course_Started_at
+[Thêm mới] Kết thúc (dự kiến) -> Course_Ended_at
+Chi tiết lộ trình khóa học -> Course_Module

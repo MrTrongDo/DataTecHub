@@ -219,5 +219,121 @@
             "Dashboard_ID": "BIA_0003",
             "Dashboard_Structure": "Customer Segmentation"
         }
-    ]
+    ],
+    "dim_CourseContent": {
+        "TYPE001": {
+            "Course_ID": "TYPE001",
+            "Course_Name": "Business Intelligence Analytics",
+            "Course_Type": "Online & Offline",
+            "Course_Duration": "24 buổi (2 tiếng / buổi)",
+            "Excel_skill": "Y",
+            "PowerQuery_skill": "Y",
+            "SQL_skill": "Y",
+            "PowerBI_skill": "Y",
+            "Python_skill": "N",
+            "Course_Started_at": "2025-06-21",
+            "Course_Ended_at": "2025-08-24",
+            "Course_Module": {
+                "Giới thiệu và Cơ bản": [
+                    "Giới thiệu về Business Intelligence và các công cụ sử dụng",
+                    "Tổng quan về Advanced Excel - Các hàm cơ bản và nâng cao",
+                    "Thực hành Advanced Excel - PivotTables và PivotCharts"
+                ],
+                "Làm sạch và Biến đổi Dữ liệu": [
+                    "Giới thiệu về Power Query - Kết nối và nhập dữ liệu",
+                    "Làm sạch dữ liệu với Power Query - Các kỹ thuật cơ bản",
+                    "Biến đổi dữ liệu với Power Query - Các kỹ thuật nâng cao",
+                    "Thực hành Power Query - Tích hợp dữ liệu từ nhiều nguồn"
+                ],
+                "Truy vấn và Phân tích Dữ liệu với SQL": [
+                    "Giới thiệu về SQL - Các khái niệm cơ bản và cú pháp",
+                    "Truy vấn cơ bản với SQL - SELECT, WHERE, JOIN",
+                    "Truy vấn nâng cao với SQL - GROUP BY, HAVING, SUBQUERIES",
+                    "Thực hành SQL - Tạo và quản lý cơ sở dữ liệu"
+                ],
+                "Tạo Báo cáo và Dashboard với Power BI": [
+                    "Giới thiệu về Power BI - Tổng quan về các đặc",
+                    "Kết nối dữ liệu trong Power BI - Các nguồn dữ liệu phổ biến",
+                    "Tạo báo cáo cơ bản với Power BI - Các biểu đồ cơ bản",
+                    "Tạo dashboard tương tác với Power BI - Các kỹ thuật nâng cao",
+                    "Thực hành Power BI - Tích hợp dữ liệu từ Power Query và SQL"
+                ]
+            }
+        },
+        "TYPE002": {
+            "Course_ID": "TYPE002",
+            "Course_Name": "Power BI for Analytics",
+            "Course_Type": "Online & Offline",
+            "Course_Duration": "12 buổi (2 tiếng / buổi)",
+            "Excel_skill": "N",
+            "PowerQuery_skill": "Y",
+            "SQL_skill": "N",
+            "PowerBI_skill": "Y",
+            "Python_skill": "N",
+            "Course_Started_at": "2025-06-21",
+            "Course_Ended_at": "2025-08-24",
+            "Course_Module": {
+                "Tạo Báo cáo và Dashboard với Power BI": [
+                    "Giới thiệu về Power BI - Tổng quan về các đặc",
+                    "Kết nối dữ liệu trong Power BI - Các nguồn dữ liệu phổ biến",
+                    "Tạo báo cáo cơ bản với Power BI - Các biểu đồ cơ bản",
+                    "Tạo dashboard tương tác với Power BI - Các kỹ thuật nâng cao",
+                    "Thực hành Power BI - Tích hợp dữ liệu từ Power Query và SQL"
+                ],
+                "Dự báo và Phân tích Xu hướng": [
+                    "Phân tích xu hướng với Power BI - Các công cụ và kỹ thuật",
+                    "Dự báo dữ liệu với Power BI - Các mô hình dự báo",
+                    "Thực hành dự báo và phân tích xu hướng",
+                    "Tối ưu hóa quy trình kinh doanh với BI"
+                ],
+                "Ứng dụng Thực tế và Tổng kết": [
+                    "Ứng dụng BI trong các ngành công nghiệp khác nhau - Case studies",
+                    "Thực hành dự án BI - Phân tích và báo cáo dữ liệu thực tế",
+                    "Tổng kết và đánh giá khóa học - Thảo luận và phản hồi",
+                    "(Extra) Ứng dụng Analytical Thinking trong phân tích business cases"
+                ]
+            }
+        },
+        "TYPE003": {
+            "Course_ID": "TYPE003",
+            "Course_Name": "SQL for Analytics",
+            "Course_Type": "Online & Offline",
+            "Course_Duration": "8 buổi (2 tiếng / buổi)",
+            "Excel_skill": "N",
+            "PowerQuery_skill": "N",
+            "SQL_skill": "Y",
+            "PowerBI_skill": "N",
+            "Python_skill": "N",
+            "Course_Started_at": "2025-06-21",
+            "Course_Ended_at": "2025-08-24",
+            "Course_Module": {
+                "Truy vấn và Phân tích Dữ liệu với SQL": [
+                    "Giới thiệu về SQL - Các khái niệm cơ bản và cú pháp",
+                    "Truy vấn cơ bản với SQL - SELECT, WHERE, JOIN",
+                    "Truy vấn nâng cao với SQL - GROUP BY, HAVING, SUBQUERIES",
+                    "Thực hành SQL - Tạo và quản lý cơ sở dữ liệu"
+                ]
+            }
+        },
+        "TYPE004": {
+            "Course_ID": "TYPE004",
+            "Course_Name": "Advanced Excel",
+            "Course_Type": "Online & Offline",
+            "Course_Duration": "6 buổi (2 tiếng / buổi)",
+            "Excel_skill": "Y",
+            "PowerQuery_skill": "N",
+            "SQL_skill": "N",
+            "PowerBI_skill": "N",
+            "Python_skill": "N",
+            "Course_Started_at": "2025-06-21",
+            "Course_Ended_at": "2025-08-24",
+            "Course_Module": {
+                "Giới thiệu và Cơ bản": [
+                    "Giới thiệu về Business Intelligence và các công cụ sử dụng",
+                    "Tổng quan về Advanced Excel - Các hàm cơ bản và nâng cao",
+                    "Thực hành Advanced Excel - PivotTables và PivotCharts"
+                ]
+            }
+        }
+    }
 }
