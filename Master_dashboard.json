@@ -8,7 +8,8 @@
             "Owner_ID": "DBO001",
             "Created_at": "2025-05-20 00:00:00",
             "Dashboard_Link": "https://app.powerbi.com/view?r=eyJrIjoiOGZkYmRkY2MtYTg0YS00NjYzLWIwNmMtMmNmMDJmYjEwZTA3IiwidCI6IjJmY2RhNzM0LWE1YzQtNDhmMC1hYThkLThhZTM2OTk3MzkyMSIsImMiOjEwfQ%3D%3D",
-            "Challenge_Topic": "BIA_course_Assessment"
+            "Challenge_Topic": "BIA_course_Assessment",
+            "Dashboard_Thumbnail": "https://github.com/MrTrongDo/DataTecHub/blob/main/BIA_0001_thumbnail.PNG"
         },
         {
             "Index": 2,
@@ -17,8 +18,9 @@
             "Owner_Name": "BIA",
             "Owner_ID": "DBO001",
             "Created_at": "2025-05-05 00:00:00",
-            "Dashboard_Link": "https://app.powerbi.com/view?r=eyJrIjoiOGZkYmRkY2MtYTg0YS00NjYzLWIwNmMtMmNmMDJmYjEwZTA3IiwidCI6IjJmY2RhNzM0LWE1YzQtNDhmMC1hYThkLThhZTM2OTk3MzkyMSIsImMiOjEwfQ%3D%3D",
-            "Challenge_Topic": "BIA_course_Assessment"
+            "Dashboard_Link": "https://app.powerbi.com/view?r=eyJrIjoiODZkNzQ4MTUtMDUyYy00Y2I5LWE2ODEtYzE4NDU2ODcwNjQxIiwidCI6IjJmY2RhNzM0LWE1YzQtNDhmMC1hYThkLThhZTM2OTk3MzkyMSIsImMiOjEwfQ%3D%3D",
+            "Challenge_Topic": "BIA_course_Assessment",
+            "Dashboard_Thumbnail": "https://github.com/MrTrongDo/DataTecHub/blob/main/BIA_0002_thumbnail.PNG"
         },
         {
             "Index": 3,
@@ -28,7 +30,8 @@
             "Owner_ID": "DBO001",
             "Created_at": "2025-05-30 00:00:00",
             "Dashboard_Link": "https://app.powerbi.com/view?r=eyJrIjoiMmEyNmI4ZTgtYzA0MS00MDI4LTk3ZDYtZGVhNzUwMDQ0Y2M1IiwidCI6IjJmY2RhNzM0LWE1YzQtNDhmMC1hYThkLThhZTM2OTk3MzkyMSIsImMiOjEwfQ%3D%3D",
-            "Challenge_Topic": "BIA_course_Assessment"
+            "Challenge_Topic": "BIA_course_Assessment",
+            "Dashboard_Thumbnail": "https://github.com/MrTrongDo/DataTecHub/blob/main/BIA_0003_thumbnail.PNG"
         }
     ],
     "dim_dbowner": [
