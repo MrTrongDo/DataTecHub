@@ -33,14 +33,14 @@
             "PowerQuery_skill": "Y",
             "SQL_skill": "Y",
             "PowerBI_skill": "Y",
-            "Python_skill": NaN,
+            "Python_skill": null,
             "Owner_Title": "Auditing Student",
             "Owner_Organization": "UEL - Vietnam National University",
-            "Owner_Brief": NaN,
+            "Owner_Brief": null,
             "Owner_AvatarLink": "https://github.com/MrTrongDo/DataTecHub/blob/main/DBO002_avatar.PNG",
             "Owner_CertificateNo": 1001,
             "Owner_CertificateImage": "https://github.com/MrTrongDo/DataTecHub/blob/main/0001001.png",
-            "Linkedin": NaN
+            "Linkedin": null
         },
         {
             "Index": 3,
@@ -54,14 +54,14 @@
             "PowerQuery_skill": "Y",
             "SQL_skill": "Y",
             "PowerBI_skill": "Y",
-            "Python_skill": NaN,
+            "Python_skill": null,
             "Owner_Title": "Sale Support Specialist",
             "Owner_Organization": "Eximbank",
-            "Owner_Brief": NaN,
+            "Owner_Brief": null,
             "Owner_AvatarLink": "https://github.com/MrTrongDo/DataTecHub/blob/main/DBO003_avatar.PNG",
             "Owner_CertificateNo": 1002,
             "Owner_CertificateImage": "https://github.com/MrTrongDo/DataTecHub/blob/main/0001002.png",
-            "Linkedin": NaN
+            "Linkedin": null
         },
         {
             "Index": 4,
@@ -75,14 +75,14 @@
             "PowerQuery_skill": "Y",
             "SQL_skill": "Y",
             "PowerBI_skill": "Y",
-            "Python_skill": NaN,
+            "Python_skill": null,
             "Owner_Title": "Auditing Student",
             "Owner_Organization": "UEL - Vietnam National University",
-            "Owner_Brief": NaN,
+            "Owner_Brief": null,
             "Owner_AvatarLink": "https://github.com/MrTrongDo/DataTecHub/blob/main/DBO004_avatar.PNG",
             "Owner_CertificateNo": 1003,
             "Owner_CertificateImage": "https://github.com/MrTrongDo/DataTecHub/blob/main/0001003.png",
-            "Linkedin": NaN
+            "Linkedin": null
         },
         {
             "Index": 5,
@@ -96,10 +96,10 @@
             "PowerQuery_skill": "Y",
             "SQL_skill": "Y",
             "PowerBI_skill": "Y",
-            "Python_skill": NaN,
+            "Python_skill": null,
             "Owner_Title": "Auditing Student",
             "Owner_Organization": "UEL - Vietnam National University",
-            "Owner_Brief": NaN,
+            "Owner_Brief": null,
             "Owner_AvatarLink": "https://github.com/MrTrongDo/DataTecHub/blob/main/DBO005_avatar.PNG",
             "Owner_CertificateNo": 1004,
             "Owner_CertificateImage": "https://github.com/MrTrongDo/DataTecHub/blob/main/0001004.png",
@@ -117,14 +117,14 @@
             "PowerQuery_skill": "Y",
             "SQL_skill": "Y",
             "PowerBI_skill": "Y",
-            "Python_skill": NaN,
+            "Python_skill": null,
             "Owner_Title": "Auditing Student",
             "Owner_Organization": "UEL - Vietnam National University",
-            "Owner_Brief": NaN,
+            "Owner_Brief": null,
             "Owner_AvatarLink": "https://github.com/MrTrongDo/DataTecHub/blob/main/DBO006_avatar.PNG",
             "Owner_CertificateNo": 1005,
             "Owner_CertificateImage": "https://github.com/MrTrongDo/DataTecHub/blob/main/0001005.png",
-            "Linkedin": NaN
+            "Linkedin": null
         },
         {
             "Index": 7,
@@ -138,14 +138,14 @@
             "PowerQuery_skill": "Y",
             "SQL_skill": "Y",
             "PowerBI_skill": "Y",
-            "Python_skill": NaN,
+            "Python_skill": null,
             "Owner_Title": "Auditing Student",
             "Owner_Organization": "UEL - Vietnam National University",
-            "Owner_Brief": NaN,
+            "Owner_Brief": null,
             "Owner_AvatarLink": "https://github.com/MrTrongDo/DataTecHub/blob/main/DBO007_avatar.PNG",
             "Owner_CertificateNo": 1006,
             "Owner_CertificateImage": "https://github.com/MrTrongDo/DataTecHub/blob/main/0001006.png",
-            "Linkedin": NaN
+            "Linkedin": null
         }
     ],
     "dim_dashboard": [
