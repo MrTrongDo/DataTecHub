@@ -1,4 +1,153 @@
 {
+    "dim_dbowner": [
+        {
+            "Index": 1,
+            "Owner_ID": "DBO001",
+            "Registered_at": "2025-05-20 00:00:00",
+            "Owner_Name": "DataTecHub",
+            "Certified_YN": "Y",
+            "Certified_name": "Business Intelligence Analytics",
+            "Certified_date": "2025-06-05 00:00:00",
+            "Excel_skill": "Y",
+            "PowerQuery_skill": "Y",
+            "SQL_skill": "Y",
+            "PowerBI_skill": "Y",
+            "Python_skill": "Y",
+            "Owner_Title": "Business Solution Consultant",
+            "Owner_Organization": "DataTecHub",
+            "Owner_Brief": "Unlock your powerful analytics with advanced BI courses and provide Business solutions services",
+            "Owner_AvatarLink": "https://github.com/MrTrongDo/DataTecHub/blob/main/Logo.png",
+            "Owner_CertificateNo": NaN,
+            "Owner_CertificateImage": "https://github.com/MrTrongDo/DataTecHub/blob/main/Owner_CertificateImage_1.png",
+            "Linkedin": "https://www.linkedin.com/company/datatechub"
+        },
+        {
+            "Index": 2,
+            "Owner_ID": "DBO002",
+            "Registered_at": "2025-06-06 00:00:00",
+            "Owner_Name": "Nguyễn Phương Bảo Trâm",
+            "Certified_YN": "Y",
+            "Certified_name": "Business Intelligence Analytics",
+            "Certified_date": "2025-06-06 00:00:00",
+            "Excel_skill": "Y",
+            "PowerQuery_skill": "Y",
+            "SQL_skill": "Y",
+            "PowerBI_skill": "Y",
+            "Python_skill": NaN,
+            "Owner_Title": "Auditing Student",
+            "Owner_Organization": "UEL - Vietnam National University",
+            "Owner_Brief": NaN,
+            "Owner_AvatarLink": "https://github.com/MrTrongDo/DataTecHub/blob/main/DBO002_avatar.PNG",
+            "Owner_CertificateNo": 1001.0,
+            "Owner_CertificateImage": "https://github.com/MrTrongDo/DataTecHub/blob/main/0001001.png",
+            "Linkedin": NaN
+        },
+        {
+            "Index": 3,
+            "Owner_ID": "DBO003",
+            "Registered_at": "2025-06-06 00:00:00",
+            "Owner_Name": "Nguyễn Thị Thúy Vi",
+            "Certified_YN": "Y",
+            "Certified_name": "Business Intelligence Analytics",
+            "Certified_date": "2025-06-06 00:00:00",
+            "Excel_skill": "Y",
+            "PowerQuery_skill": "Y",
+            "SQL_skill": "Y",
+            "PowerBI_skill": "Y",
+            "Python_skill": NaN,
+            "Owner_Title": "Sale Support Specialist",
+            "Owner_Organization": "Eximbank",
+            "Owner_Brief": NaN,
+            "Owner_AvatarLink": "https://github.com/MrTrongDo/DataTecHub/blob/main/DBO003_avatar.PNG",
+            "Owner_CertificateNo": 1002.0,
+            "Owner_CertificateImage": "https://github.com/MrTrongDo/DataTecHub/blob/main/0001002.png",
+            "Linkedin": NaN
+        },
+        {
+            "Index": 4,
+            "Owner_ID": "DBO004",
+            "Registered_at": "2025-06-06 00:00:00",
+            "Owner_Name": "Đặng Hồng Hà",
+            "Certified_YN": "Y",
+            "Certified_name": "Business Intelligence Analytics",
+            "Certified_date": "2025-06-06 00:00:00",
+            "Excel_skill": "Y",
+            "PowerQuery_skill": "Y",
+            "SQL_skill": "Y",
+            "PowerBI_skill": "Y",
+            "Python_skill": NaN,
+            "Owner_Title": "Auditing Student",
+            "Owner_Organization": "UEL - Vietnam National University",
+            "Owner_Brief": NaN,
+            "Owner_AvatarLink": "https://github.com/MrTrongDo/DataTecHub/blob/main/DBO004_avatar.PNG",
+            "Owner_CertificateNo": 1003.0,
+            "Owner_CertificateImage": "https://github.com/MrTrongDo/DataTecHub/blob/main/0001003.png",
+            "Linkedin": NaN
+        },
+        {
+            "Index": 5,
+            "Owner_ID": "DBO005",
+            "Registered_at": "2025-06-06 00:00:00",
+            "Owner_Name": "Nguyễn Thị Như Ý",
+            "Certified_YN": "Y",
+            "Certified_name": "Business Intelligence Analytics",
+            "Certified_date": "2025-06-06 00:00:00",
+            "Excel_skill": "Y",
+            "PowerQuery_skill": "Y",
+            "SQL_skill": "Y",
+            "PowerBI_skill": "Y",
+            "Python_skill": NaN,
+            "Owner_Title": "Auditing Student",
+            "Owner_Organization": "UEL - Vietnam National University",
+            "Owner_Brief": NaN,
+            "Owner_AvatarLink": "https://github.com/MrTrongDo/DataTecHub/blob/main/DBO005_avatar.PNG",
+            "Owner_CertificateNo": 1004.0,
+            "Owner_CertificateImage": "https://github.com/MrTrongDo/DataTecHub/blob/main/0001004.png",
+            "Linkedin": "https://www.linkedin.com/in/y-nguyen-thi-nhu-899773333/"
+        },
+        {
+            "Index": 6,
+            "Owner_ID": "DBO006",
+            "Registered_at": "2025-06-06 00:00:00",
+            "Owner_Name": "Tống Ngọc Quý",
+            "Certified_YN": "Y",
+            "Certified_name": "Business Intelligence Analytics",
+            "Certified_date": "2025-06-06 00:00:00",
+            "Excel_skill": "Y",
+            "PowerQuery_skill": "Y",
+            "SQL_skill": "Y",
+            "PowerBI_skill": "Y",
+            "Python_skill": NaN,
+            "Owner_Title": "Auditing Student",
+            "Owner_Organization": "UEL - Vietnam National University",
+            "Owner_Brief": NaN,
+            "Owner_AvatarLink": "https://github.com/MrTrongDo/DataTecHub/blob/main/DBO006_avatar.PNG",
+            "Owner_CertificateNo": 1005.0,
+            "Owner_CertificateImage": "https://github.com/MrTrongDo/DataTecHub/blob/main/0001005.png",
+            "Linkedin": NaN
+        },
+        {
+            "Index": 7,
+            "Owner_ID": "DBO007",
+            "Registered_at": "2025-06-06 00:00:00",
+            "Owner_Name": "Nguyễn Phước Trường",
+            "Certified_YN": "Y",
+            "Certified_name": "Business Intelligence Analytics",
+            "Certified_date": "2025-06-06 00:00:00",
+            "Excel_skill": "Y",
+            "PowerQuery_skill": "Y",
+            "SQL_skill": "Y",
+            "PowerBI_skill": "Y",
+            "Python_skill": NaN,
+            "Owner_Title": "Auditing Student",
+            "Owner_Organization": "UEL - Vietnam National University",
+            "Owner_Brief": NaN,
+            "Owner_AvatarLink": "https://github.com/MrTrongDo/DataTecHub/blob/main/DBO007_avatar.PNG",
+            "Owner_CertificateNo": 1006.0,
+            "Owner_CertificateImage": "https://github.com/MrTrongDo/DataTecHub/blob/main/0001006.png",
+            "Linkedin": NaN
+        }
+    ],
     "dim_dashboard": [
         {
             "Index": 1,
@@ -32,28 +181,72 @@
             "Dashboard_Link": "https://app.powerbi.com/view?r=eyJrIjoiMmEyNmI4ZTgtYzA0MS00MDI4LTk3ZDYtZGVhNzUwMDQ0Y2M1IiwidCI6IjJmY2RhNzM0LWE1YzQtNDhmMC1hYThkLThhZTM2OTk3MzkyMSIsImMiOjEwfQ%3D%3D",
             "Challenge_Topic": "BIA_course_Assessment",
             "Dashboard_Thumbnail": "https://github.com/MrTrongDo/DataTecHub/blob/main/BIA_0003_thumbnail.PNG"
-        }
-    ],
-    "dim_dbowner": [
+        },
         {
-            "Index": 1,
-            "Owner_ID": "DBO001",
-            "Registered_at": "2025-05-20 00:00:00",
-            "Owner_Name": "DataTecHub",
-            "Certified_YN": "Y",
-            "Certified_name": "Business Intelligence Analytics",
-            "Certified_date": "2025-06-05 00:00:00",
-            "Excel_skill": "Y",
-            "PowerQuery_skill": "Y",
-            "SQL_skill": "Y",
-            "PowerBI_skill": "Y",
-            "Python_skill": "Y",
-            "Owner_Title": "Business Solution Consultant",
-            "Owner_Organization": "DataTecHub",
-            "Owner_Brief": "Unlock your powerful analytics with advanced BI courses and provide Business solutions services",
-            "Owner_AvatarLink": "https://github.com/MrTrongDo/DataTecHub/blob/main/Logo.png",
-            "Owner_CertificateImage": "https://github.com/MrTrongDo/DataTecHub/blob/main/Owner_CertificateImage_1.png",
-            "Linkedin": "https://www.linkedin.com/company/datatechub"
+            "Index": 4,
+            "Dashboard_ID": "BIA_0004",
+            "Dashboard_Name": "Marketing Dashboard",
+            "Owner_Name": "BIA",
+            "Owner_ID": "DBO002",
+            "Created_at": "2025-06-06 00:00:00",
+            "Dashboard_Link": "https://app.powerbi.com/view?r=eyJrIjoiNWYxNzViZWQtNjdmZC00NGJiLTk4MjItOWIzZWJlNjAxNDY2IiwidCI6IjJmY2RhNzM0LWE1YzQtNDhmMC1hYThkLThhZTM2OTk3MzkyMSIsImMiOjEwfQ%3D%3D",
+            "Challenge_Topic": "BIA_course_Assessment",
+            "Dashboard_Thumbnail": "https://github.com/MrTrongDo/DataTecHub/blob/main/BIA_0004_thumbnail.PNG"
+        },
+        {
+            "Index": 5,
+            "Dashboard_ID": "BIA_0005",
+            "Dashboard_Name": "Marketing Dashboard",
+            "Owner_Name": "BIA",
+            "Owner_ID": "DBO003",
+            "Created_at": "2025-06-06 00:00:00",
+            "Dashboard_Link": "https://app.powerbi.com/view?r=eyJrIjoiZTM1ZmIyZjgtM2VlYy00ZThjLWFjNTAtNjliYzVlZmQ5OTg2IiwidCI6IjJmY2RhNzM0LWE1YzQtNDhmMC1hYThkLThhZTM2OTk3MzkyMSIsImMiOjEwfQ%3D%3D",
+            "Challenge_Topic": "BIA_course_Assessment",
+            "Dashboard_Thumbnail": "https://github.com/MrTrongDo/DataTecHub/blob/main/BIA_0005_thumbnail.PNG"
+        },
+        {
+            "Index": 6,
+            "Dashboard_ID": "BIA_0006",
+            "Dashboard_Name": "Marketing Dashboard",
+            "Owner_Name": "BIA",
+            "Owner_ID": "DBO004",
+            "Created_at": "2025-06-06 00:00:00",
+            "Dashboard_Link": "https://app.powerbi.com/view?r=eyJrIjoiZWZlYThjMWYtM2E0Mi00MDdkLTllZmMtMzRhN2YzOTQzZTM0IiwidCI6IjJmY2RhNzM0LWE1YzQtNDhmMC1hYThkLThhZTM2OTk3MzkyMSIsImMiOjEwfQ%3D%3D",
+            "Challenge_Topic": "BIA_course_Assessment",
+            "Dashboard_Thumbnail": "https://github.com/MrTrongDo/DataTecHub/blob/main/BIA_0006_thumbnail.PNG"
+        },
+        {
+            "Index": 7,
+            "Dashboard_ID": "BIA_0007",
+            "Dashboard_Name": "Marketing Dashboard",
+            "Owner_Name": "BIA",
+            "Owner_ID": "DBO005",
+            "Created_at": "2025-06-06 00:00:00",
+            "Dashboard_Link": "https://app.powerbi.com/view?r=eyJrIjoiYTdjMDRmYWQtMDEwYS00OTEwLTgwOWQtYTY2YTFkM2MxMGY5IiwidCI6IjJmY2RhNzM0LWE1YzQtNDhmMC1hYThkLThhZTM2OTk3MzkyMSIsImMiOjEwfQ%3D%3D",
+            "Challenge_Topic": "BIA_course_Assessment",
+            "Dashboard_Thumbnail": "https://github.com/MrTrongDo/DataTecHub/blob/main/BIA_0007_thumbnail.PNG"
+        },
+        {
+            "Index": 8,
+            "Dashboard_ID": "BIA_0008",
+            "Dashboard_Name": "Marketing Dashboard",
+            "Owner_Name": "BIA",
+            "Owner_ID": "DBO006",
+            "Created_at": "2025-06-06 00:00:00",
+            "Dashboard_Link": "https://app.powerbi.com/view?r=eyJrIjoiNGQ1NTk3ZmEtOTA0NC00NTQ4LWIxOWEtNjkzOTBiM2YxYjkwIiwidCI6IjJmY2RhNzM0LWE1YzQtNDhmMC1hYThkLThhZTM2OTk3MzkyMSIsImMiOjEwfQ%3D%3D",
+            "Challenge_Topic": "BIA_course_Assessment",
+            "Dashboard_Thumbnail": "https://github.com/MrTrongDo/DataTecHub/blob/main/BIA_0008_thumbnail.PNG"
+        },
+        {
+            "Index": 9,
+            "Dashboard_ID": "BIA_0009",
+            "Dashboard_Name": "Marketing Dashboard",
+            "Owner_Name": "BIA",
+            "Owner_ID": "DBO007",
+            "Created_at": "2025-06-06 00:00:00",
+            "Dashboard_Link": "https://app.powerbi.com/view?r=eyJrIjoiM2U4ZDVlM2UtZDQzMC00YzkxLTg1YTAtOTIwNGMwOGQ3ZGZjIiwidCI6IjJmY2RhNzM0LWE1YzQtNDhmMC1hYThkLThhZTM2OTk3MzkyMSIsImMiOjEwfQ%3D%3D",
+            "Challenge_Topic": "BIA_course_Assessment",
+            "Dashboard_Thumbnail": "https://github.com/MrTrongDo/DataTecHub/blob/main/BIA_0009_thumbnail.PNG"
         }
     ],
     "db_objective": [
@@ -92,6 +285,34 @@
         {
             "Dashboard_ID": "BIA_0003",
             "Business_Objective": "Phân tích hành vi khách hàng"
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Business_Objective": "Dashboard dành cho trưởng phòng Marketing (CMO)"
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Business_Objective": "Cần ra quyết định: Nên tiếp tục hay điều chỉnh chiến dịch? Chiến dịch nào đang đem lại hiệu quả tốt và có thể tiếp tục triển khai?"
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Business_Objective": "Họ quan tâm đến hiệu quả tổng thể của chiến dịch marketing,qua dashboard này có thể đánh giá hiệu quả của mỗi chiến dịch theo thời gian"
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Business_Objective": "Họ quan tâm đến hiệu quả của từng kênh quảng cáo"
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Business_Objective": "Cần ra quyết định: Kênh nào nên phân bổ thêm ngân sách? Kênh nào nên cắt giảm?"
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Business_Objective": "Họ quan tâm đến hiệu quả của chiến dịch Email Marketing và hành vi của người dùng"
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Business_Objective": "Cần ra quyết định: Tăng cường/giảm tần suất gửi? Cải thiện nội dung email?"
         }
     ],
     "db_logic": [
@@ -110,6 +331,18 @@
         {
             "Dashboard_ID": "BIA_0003",
             "Analytical_Logic": "What: chuyện gì đang xảy ra ? (số liệu tổng quan)"
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Analytical_Logic": "Doanh thu tăng hay giảm so với năm ngoái? Tỷ lệ CTR và Conversion Rate tốt không? CPC và CPA có hiệu quả không (so với chi phí)? Chiến dịch nào mang lại doanh thu cao nhất?"
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Analytical_Logic": "Doanh thu, Chi phí và Lợi nhuận của từng kênh? Tỷ trọng trong giá trị tổng? Kênh nào có ROAS tốt nhất? Kênh nào mang lại nhiều traffic, conversion? Tỷ lệ chuyển đổi của các kênh có cải thiện không?"
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Analytical_Logic": "Tỷ lệ mở và click trên số lượt email marketing gửi đi có tốt không? Unsubscribe rate, Bounce rate có tăng không? Người dùng dành bao lâu cho email (Time on Page)?"
         }
     ],
     "db_perspective": [
@@ -164,6 +397,18 @@
         {
             "Dashboard_ID": "BIA_0003",
             "Analytical_Perspectives": "Tăng trưởng của revenue của các chương trình như thế nào ?"
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Analytical_Perspectives": "What: CTR = 4.02%, Conversion Rate = 9.48%, CPC = 7.34 nghìn, CPA = 77.43 nghìn (tăng so với năm ngoái).\n\nWhy: CPA tăng mạnh do CPC tăng 45.35% so với năm ngoái => chi phí quảng cáo cao hơn.\n\nSo What: Tăng chi phí nhưng hiệu quả thấp hơn\n\nNow What: Cần tối ưu quảng cáo, tập trung vào kênh có chi phí thấp và tỷ lệ chuyển đổi cao."
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Analytical_Perspectives": "What:\nFacebook chi nhiều nhất (76.5 tỷ) nhưng ROAS thấp hơn (37.6).\nGoogle Ads ROAS cao nhất (41.01), chi phí thấp hơn (65.8 tỷ).\n\nWhy:\nFacebook hiệu suất chưa tốt: chi phí cao nhưng chuyển đổi chỉ 9721.\nGoogle Ads chi phí thấp hơn nhưng mang về 8669 chuyển đổi với ROAS cao.\n\nSo What:\n\nFacebook cần xem xét lại hiệu quả.\nBỏ lỡ cơ hội nếu không tăng đầu tư vào kênh hiệu quả như Google Ads, TikTok.\n\nNow What:\nGiảm ngân sách Facebook, tối ưu nội dung, target.Tăng đầu tư Google Ads,.. ROAS cao, chuyển đổi tốt."
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Analytical_Perspectives": "What:\nOpen Rate: 87.27% (rất tốt), Click Rate: 73.24% (cao), Unsubscribe: 1.15%, Bounce: 0.53%\nTime on Page dao động nhưng có dấu hiệu giảm từ tháng 7.\n\nWhy: Có thể do nội dung thiếu hấp dẫn, không còn mới mẻ.\n\nSo What: Nếu không cải thiện nội dung, tỷ lệ mở và chuyển đổi sẽ giảm.\n\nNow What: Kiểm tra lại nội dung email, thực hiện các nội dung mới và thu hút"
         }
     ],
     "db_structure": [
@@ -218,6 +463,18 @@
         {
             "Dashboard_ID": "BIA_0003",
             "Dashboard_Structure": "Customer Segmentation"
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Dashboard_Structure": "Campaign Performance"
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Dashboard_Structure": "Channel Performance"
+        },
+        {
+            "Dashboard_ID": "BIA_0007",
+            "Dashboard_Structure": "Marketing KPIs"
         }
     ],
     "dim_CourseContent": {
