@@ -491,29 +491,45 @@
             "Course_Started_at": "2025-06-21",
             "Course_Ended_at": "2025-08-24",
             "Course_Module": {
-                "Giới thiệu và Cơ bản": [
-                    "Giới thiệu về Business Intelligence và các công cụ sử dụng",
-                    "Tổng quan về Advanced Excel - Các hàm cơ bản và nâng cao",
-                    "Thực hành Advanced Excel - PivotTables và PivotCharts"
+                "Data and Analytical thinking": [
+                    "Business Intelligence và analytical thinking"
                 ],
-                "Làm sạch và Biến đổi Dữ liệu": [
-                    "Giới thiệu về Power Query - Kết nối và nhập dữ liệu",
-                    "Làm sạch dữ liệu với Power Query - Các kỹ thuật cơ bản",
-                    "Biến đổi dữ liệu với Power Query - Các kỹ thuật nâng cao",
-                    "Thực hành Power Query - Tích hợp dữ liệu từ nhiều nguồn"
+                "Advanced Excel": [
+                    "Giới thiệu về Excel - Các hàm cơ bản và nâng cao",
+                    "Advanced Excel - PivotTables và PivotCharts"
                 ],
-                "Truy vấn và Phân tích Dữ liệu với SQL": [
+                "Report framework và Dashboard": [
+                    "Xây dựng Report có cấu trúc với Excel",
+                    "Xây dựng Dashboard với Excel"
+                ],
+                "SQL - Ngôn ngữ xử lý dữ liệu mạnh mẽ": [
                     "Giới thiệu về SQL - Các khái niệm cơ bản và cú pháp",
+                    "Tạo cơ sở dữ liệu và quản lý dữ liệu trong SQL",
                     "Truy vấn cơ bản với SQL - SELECT, WHERE, JOIN",
-                    "Truy vấn nâng cao với SQL - GROUP BY, HAVING, SUBQUERIES",
-                    "Thực hành SQL - Tạo và quản lý cơ sở dữ liệu"
+                    "Truy vấn nâng cao với SQL (Session 1)",
+                    "Truy vấn nâng cao với SQL (Session 2)"
                 ],
-                "Tạo Báo cáo và Dashboard với Power BI": [
-                    "Giới thiệu về Power BI - Tổng quan về các đặc",
-                    "Kết nối dữ liệu trong Power BI - Các nguồn dữ liệu phổ biến",
+                "[Project] SQL for Analytics": [
+                    "[Project] Ứng dụng Excel trong phân tích (Session 1)",
+                    "[Project] Ứng dụng Excel trong phân tích (Session 2)"
+                ],
+                "Power BI for Analytics": [
+                    "Giới thiệu về Power BI",
+                    "Data Model",
+                    "DAX - Ngôn ngữ xử lý trong Power BI - Basic level",
                     "Tạo báo cáo cơ bản với Power BI - Các biểu đồ cơ bản",
-                    "Tạo dashboard tương tác với Power BI - Các kỹ thuật nâng cao",
-                    "Thực hành Power BI - Tích hợp dữ liệu từ Power Query và SQL"
+                    "DAX - Ngôn ngữ xử lý trong Power BI - Intemediate level",
+                    "Visualization tools - Trực quan hóa dữ liệu với loại biểu đồ phù hợp",
+                    "DAX - Ngôn ngữ xử lý trong Power BI - Advanced level",
+                    "Visualization tools - Các biểu đồ nâng cao"
+                ],
+                "Power Query": [
+                    "Làm sạch và tự động hóa xử lý dữ liệu với Power Query"
+                ],
+                "[Project] Power BI for Analytics": [
+                    "[Project] Ứng dụng Power BI trong phân tích (Session 1)",
+                    "[Project] Ứng dụng Power BI trong phân tích (Session 2)",
+                    "[Project] Ứng dụng Power BI trong phân tích (Session 3)"
                 ]
             }
         },
@@ -530,24 +546,25 @@
             "Course_Started_at": "2025-06-21",
             "Course_Ended_at": "2025-08-24",
             "Course_Module": {
-                "Tạo Báo cáo và Dashboard với Power BI": [
-                    "Giới thiệu về Power BI - Tổng quan về các đặc",
-                    "Kết nối dữ liệu trong Power BI - Các nguồn dữ liệu phổ biến",
+                "Data and Analytical thinking": [
+                    "Business Intelligence và analytical thinking"
+                ],
+                "Power BI for Analytics": [
+                    "Giới thiệu về Power BI",
+                    "Data Model",
+                    "DAX - Ngôn ngữ xử lý trong Power BI - Basic level",
                     "Tạo báo cáo cơ bản với Power BI - Các biểu đồ cơ bản",
-                    "Tạo dashboard tương tác với Power BI - Các kỹ thuật nâng cao",
-                    "Thực hành Power BI - Tích hợp dữ liệu từ Power Query và SQL"
+                    "DAX - Ngôn ngữ xử lý trong Power BI - Intemediate level",
+                    "Visualization tools - Trực quan hóa dữ liệu với loại biểu đồ phù hợp",
+                    "DAX - Ngôn ngữ xử lý trong Power BI - Advanced level",
+                    "Visualization tools - Các biểu đồ nâng cao"
                 ],
-                "Dự báo và Phân tích Xu hướng": [
-                    "Phân tích xu hướng với Power BI - Các công cụ và kỹ thuật",
-                    "Dự báo dữ liệu với Power BI - Các mô hình dự báo",
-                    "Thực hành dự báo và phân tích xu hướng",
-                    "Tối ưu hóa quy trình kinh doanh với BI"
+                "Power Query": [
+                    "Làm sạch và tự động hóa xử lý dữ liệu với Power Query"
                 ],
-                "Ứng dụng Thực tế và Tổng kết": [
-                    "Ứng dụng BI trong các ngành công nghiệp khác nhau - Case studies",
-                    "Thực hành dự án BI - Phân tích và báo cáo dữ liệu thực tế",
-                    "Tổng kết và đánh giá khóa học - Thảo luận và phản hồi",
-                    "(Extra) Ứng dụng Analytical Thinking trong phân tích business cases"
+                "[Project] Power BI for Analytics": [
+                    "[Project] Ứng dụng Power BI trong phân tích (Session 1)",
+                    "[Project] Ứng dụng Power BI trong phân tích (Session 2)"
                 ]
             }
         },
@@ -564,11 +581,19 @@
             "Course_Started_at": "2025-06-21",
             "Course_Ended_at": "2025-08-24",
             "Course_Module": {
-                "Truy vấn và Phân tích Dữ liệu với SQL": [
+                "Data and Analytical thinking": [
+                    "Business Intelligence và analytical thinking"
+                ],
+                "SQL - Ngôn ngữ xử lý dữ liệu mạnh mẽ": [
                     "Giới thiệu về SQL - Các khái niệm cơ bản và cú pháp",
+                    "Tạo cơ sở dữ liệu và quản lý dữ liệu trong SQL",
                     "Truy vấn cơ bản với SQL - SELECT, WHERE, JOIN",
-                    "Truy vấn nâng cao với SQL - GROUP BY, HAVING, SUBQUERIES",
-                    "Thực hành SQL - Tạo và quản lý cơ sở dữ liệu"
+                    "Truy vấn nâng cao với SQL (Session 1)",
+                    "Truy vấn nâng cao với SQL (Session 2)"
+                ],
+                "[Project] SQL for Analytics": [
+                    "[Project] Ứng dụng Excel trong phân tích (Session 1)",
+                    "[Project] Ứng dụng Excel trong phân tích (Session 2)"
                 ]
             }
         },
@@ -585,10 +610,19 @@
             "Course_Started_at": "2025-06-21",
             "Course_Ended_at": "2025-08-24",
             "Course_Module": {
-                "Giới thiệu và Cơ bản": [
-                    "Giới thiệu về Business Intelligence và các công cụ sử dụng",
-                    "Tổng quan về Advanced Excel - Các hàm cơ bản và nâng cao",
-                    "Thực hành Advanced Excel - PivotTables và PivotCharts"
+                "Data and Analytical thinking": [
+                    "Business Intelligence và analytical thinking"
+                ],
+                "Advanced Excel": [
+                    "Giới thiệu về Excel - Các hàm cơ bản và nâng cao",
+                    "Advanced Excel - PivotTables và PivotCharts"
+                ],
+                "Report framework và Dashboard": [
+                    "Xây dựng Report có cấu trúc với Excel",
+                    "Xây dựng Dashboard với Excel"
+                ],
+                "[Project] Excel for Analytics": [
+                    "[Project] Ứng dụng Excel trong phân tích"
                 ]
             }
         }
